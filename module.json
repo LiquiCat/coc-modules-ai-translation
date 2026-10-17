@@ -1,0 +1,27 @@
+{
+  "id": "coc-modules-ai-translation",
+  "title": "Cthulhu AI translation",
+  "description": "Customer module that translates some CoC7 modules with AI",
+  "authors": [
+    {
+      "name": "LC"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": 13,
+    "verified": 14
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
