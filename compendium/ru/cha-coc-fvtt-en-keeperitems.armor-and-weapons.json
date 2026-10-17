@@ -1,0 +1,427 @@
+{
+	"label": "Armor and Weapons | Броня и Оружие",
+	"folders": {
+		"Handguns": "Пистолеты",
+		"Alien, Artifacts": "Чужеродное, Артефакты",
+		"Rifles": "Винтовки",
+		"Shotguns": "Дробовики",
+		"Submachine Guns": "Пистолеты-пулемёты",
+		"Assault Rifles": "Автоматы",
+		"Hand-to-Hand Weapons": "Оружие ближнего боя",
+		"Machine Guns": "Пулемёты",
+		"Explosives, Heavy Weapons, Misc.": "Взрывчатка, тяжёлое оружие, разное",
+		"Armor": "Броня"
+	},
+	"entries": {
+		"WWI Helmet": {
+			"name": "Каска времён Первой мировой войны",
+			"description": "<p>2 единицы брони</p>",
+			"effects": {
+				"Armor value": {
+					"name": "Значение брони",
+					"changes": {
+						"system.attribs.armor.value": 2
+					}
+				}
+			}
+		},
+		"Flamethrower": {
+			"name": "Огнемёт"
+		},
+		"Bergmann MP181/MP2811 (30 mag)": {
+			"name": "Bergmann MP181/MP2811 (магазин на 30)"
+		},
+		".45 Revolver": {
+			"name": "Револьвер .45"
+		},
+		".32 or 7.65mm Automatic": {
+			"name": "Самозарядный пистолет .32 или 7,65 мм"
+		},
+		".30 Browning M1917A1": {
+			"name": "Browning M1917A1 .30"
+		},
+		"Taser (dart)": {
+			"name": "Тазер (дротик)",
+			"description": "<p>Действует только на цели вплоть до Телосложения 2; оглушённые цели недееспособны в течение [[/r 1D6]] раундов (или по решению Хранителя).</p>"
+		},
+		"Signal Handgun (Flare gun)": {
+			"name": "Сигнальный пистолет (ракетница)"
+		},
+		".444 Marlin Rifle": {
+			"name": "Винтовка .444 Marlin"
+		},
+		"Light Antitank Weapon": {
+			"name": "Лёгкое противотанковое оружие"
+		},
+		"Col. Moran's Air Rifle": {
+			"name": "Пневматическая винтовка полковника Морана"
+		},
+		"Barrett Model 82": {
+			"name": "Barrett Model 82"
+		},
+		"M16A2": {
+			"name": "M16A2"
+		},
+		"Sword, heavy (cavalry saber)": {
+			"name": "Меч, тяжёлый (кавалерийская сабля)"
+		},
+		".45 Automatic": {
+			"name": "Самозарядный пистолет .45"
+		},
+		"Galil Assault Rifle": {
+			"name": "Автомат Galil"
+		},
+		"FN Minimi, 5.56mm (200 mag)": {
+			"name": "FN Minimi, 5,56 мм (магазин на 200)"
+		},
+		"Present U.S. Helmet": {
+			"name": "Современная каска США",
+			"description": "<p>5 единиц брони</p>",
+			"effects": {
+				"Armor value": {
+					"name": "Значение брони",
+					"changes": {
+						"system.attribs.armor.value": 5
+					}
+				}
+			}
+		},
+		"Heckler & Koch MP5 (30 mag)": {
+			"name": "Heckler & Koch MP5 (магазин на 30)"
+		},
+		"Pipe Bomb": {
+			"name": "Самодельная бомба из трубы"
+		},
+		"Beretta M9": {
+			"name": "Beretta M9"
+		},
+		".30 Lever-Action Carbine": {
+			"name": "Карабин .30 с рычажным затвором"
+		},
+		"Garrote": {
+			"name": "Удавка",
+			"description": "<p>Требует от жертвы совершить боевой манёвр, чтобы вырваться, иначе она получает [[/r 1D6]] урона за раунд. Эффективна только против людей (или подобных) противников.</p>"
+		},
+		"Spear (cavalry lance)": {
+			"name": "Копьё (кавалерийская пика)"
+		},
+		"75mm Field Gun": {
+			"name": "75-мм полевое орудие"
+		},
+		"Flintlock": {
+			"name": "Кремнёвый пистолет"
+		},
+		"Electric Gun": {
+			"name": "Электрическое ружьё"
+		},
+		"Vickers .303 Machine Gun": {
+			"name": "Пулемёт Vickers .303"
+		},
+		"Nunchaku": {
+			"name": "Нунчаки"
+		},
+		".32 or 7.65mm Revolver": {
+			"name": "Револьвер .32 или 7,65 мм"
+		},
+		"Bullwhip": {
+			"name": "Бычий хлыст"
+		},
+		"Rock, Thrown": {
+			"name": "Камень, брошенный"
+		},
+		"120mm Tank Gun (stabilized)": {
+			"name": "120-мм танковое орудие (стабилизированное)"
+		},
+		"12-gauge Shotgun (semi-auto)": {
+			"name": "Дробовик 12-го калибра (полуавтоматический)"
+		},
+		"12-gauge Benelli M3 (folding stock)": {
+			"name": "Benelli M3 12-го калибра (складной приклад)"
+		},
+		"Garand M1, M2 Rifle": {
+			"name": "Винтовка Garand M1, M2"
+		},
+		"Skorpion SMG": {
+			"name": "Пистолет-пулемёт Skorpion"
+		},
+		"Bren Gun (100 mag)": {
+			"name": "Пулемёт Bren (магазин на 100)"
+		},
+		"Claymore Mine": {
+			"name": "Мина Claymore"
+		},
+		"20-gauge Shotgun (2B)": {
+			"name": "Дробовик 20-го калибра (2B)"
+		},
+		"Steyr AUG": {
+			"name": "Steyr AUG"
+		},
+		"Club, small (nightstick)": {
+			"name": "Дубинка, малая (полицейская дубинка)"
+		},
+		"Uzi SMG": {
+			"name": "Пистолет-пулемёт Uzi"
+		},
+		".22 Bolt-Action Rifle": {
+			"name": "Винтовка .22 с продольно-скользящим затвором"
+		},
+		"Beretta M70/90": {
+			"name": "Beretta M70/90"
+		},
+		"Bren Gun (30 mag)": {
+			"name": "Пулемёт Bren (магазин на 30)"
+		},
+		".303 Lee-Enfield": {
+			"name": "Lee-Enfield .303"
+		},
+		"Burning Torch": {
+			"name": "Горящий факел"
+		},
+		"Bergmann MP181/MP2811 (20 mag)": {
+			"name": "Bergmann MP181/MP2811 (магазин на 20)"
+		},
+		".58 Springfield Rifle Musket": {
+			"name": "Винтовка-мушкет Springfield .58"
+		},
+		"Minigun": {
+			"name": "Миниган",
+			"description": "<p>Тяжёлый пулемёт системы Гатлинга, часто устанавливаемый на вертолётах. Стрельба из такого оружия без станка требует как минимум Телосложения 2.</p>"
+		},
+		"Spear, Thrown": {
+			"name": "Копьё, брошенное"
+		},
+		"Elephant Gun (2B)": {
+			"name": "Слоновье ружьё (2B)"
+		},
+		"Chainsaw": {
+			"name": "Бензопила",
+			"description": "<p>Очень неудобна в качестве оружия; удвойте шанс пользователя на провал. <br>Провалы с бензопилой ужасны и наносят пользователю [[/r 2D8]] урона, поскольку пила, скорее всего, отскочит к голове или плечу пользователя либо пойдёт вниз к его ногам или ступням. Либо цепь может порваться и ударить по телу пользователя ([[/r 2D8]] урона). Неисправность приводит к остановке двигателя, заклиниванию или соскакиванию цепи. Тяжёлая рана от бензопилы отсекает случайную конечность.</p>"
+		},
+		"Thompson (30 mag)": {
+			"name": "Thompson (магазин на 30)"
+		},
+		"Plastique (C-4), 4 oz": {
+			"name": "Пластит (C-4), 4 унции"
+		},
+		"Taser (contact)": {
+			"name": "Тазер (контактный)",
+			"description": "<p>Действует только на цели вплоть до Телосложения 2; оглушённые цели недееспособны в течение [[/r 1D6]] раундов (или по решению Хранителя).</p>"
+		},
+		"Live Wire, 220-volt charge": {
+			"name": "Оголённый провод под напряжением 220 вольт"
+		},
+		".44 Magnum Revolver": {
+			"name": "Револьвер .44 Magnum"
+		},
+		"Heavy Leather Jacket": {
+			"name": "Тяжёлая кожаная куртка",
+			"description": "<p>1 единица брони</p>",
+			"effects": {
+				"Armor value": {
+					"name": "Значение брони",
+					"changes": {
+						"system.attribs.armor.value": 1
+					}
+				}
+			}
+		},
+		".22 Short Automatic": {
+			"name": "Самозарядный пистолет .22 Short"
+		},
+		".38 or 9mm Revolver": {
+			"name": "Револьвер .38 или 9 мм"
+		},
+		"Military Body Armor": {
+			"name": "Военный бронежилет",
+			"description": "<p>12 единиц брони</p>",
+			"effects": {
+				"Armor value": {
+					"name": "Значение брони",
+					"changes": {
+						"system.attribs.armor.value": 12
+					}
+				}
+			}
+		},
+		"12-gauge Shotgun (2B)": {
+			"name": "Дробовик 12-го калибра (2B)"
+		},
+		"Mark I Lewis Gun (97 mag)": {
+			"name": "Пулемёт Mark I Lewis (магазин на 97)"
+		},
+		"Model P08 Luger": {
+			"name": "Model P08 Luger"
+		},
+		"Model 1882 Gatling Gun": {
+			"name": "Пулемёт Гатлинга образца 1882 года"
+		},
+		"AK-74": {
+			"name": "AK-74"
+		},
+		"Knife, Large (machete, etc.)": {
+			"name": "Нож, большой (мачете и т. п.)"
+		},
+		"Ingram MAC-11": {
+			"name": "Ingram MAC-11"
+		},
+		"Lightning Gun": {
+			"name": "Электрическое ружьё"
+		},
+		".41 Revolver": {
+			"name": "Револьвер .41"
+		},
+		".30-06 Semi-Automatic Rifle": {
+			"name": "Самозарядная винтовка .30-06"
+		},
+		"M79 Grenade Launcher": {
+			"name": "Гранатомёт M79"
+		},
+		"FN FAL Light Automatic": {
+			"name": "FN FAL, лёгкий автоматический"
+		},
+		"81mm Mortar": {
+			"name": "81-мм миномёт"
+		},
+		"Wood Axe": {
+			"name": "Топор для дерева"
+		},
+		"M4": {
+			"name": "M4"
+		},
+		"War Boomerang": {
+			"name": "Боевой бумеранг"
+		},
+		".45 Martini-Henry Rifle": {
+			"name": "Винтовка Martini-Henry .45"
+		},
+		"Thompson (50 mag)": {
+			"name": "Thompson (магазин на 50)"
+		},
+		"Anti-Personnel Mine": {
+			"name": "Противопехотная мина"
+		},
+		"Bergmann MP181/MP2811 (32 mag)": {
+			"name": "Bergmann MP181/MP2811 (магазин на 32)"
+		},
+		"Shuriken": {
+			"name": "Сюрикен"
+		},
+		"Browning Auto Rifle M1918": {
+			"name": "Автоматическая винтовка Browning M1918"
+		},
+		"12-gauge SPAS (folding stock)": {
+			"name": "SPAS 12-го калибра (складной приклад)"
+		},
+		".25 Derringer (1B)": {
+			"name": "Дерринджер .25 (1B)"
+		},
+		"Blackjack (Cosh, life-preserver)": {
+			"name": "Дубинка (кистень, свинчатка)"
+		},
+		"Dynamite Stick": {
+			"name": "Шашка динамита"
+		},
+		"Brass Knuckles": {
+			"name": "Кастет"
+		},
+		"AK-47 or AKM": {
+			"name": "AK-47 или AKM"
+		},
+		"Knife, Medium (carving knife, etc.)": {
+			"name": "Нож, средний (разделочный нож и т. п.)"
+		},
+		"Mist Projector": {
+			"name": "Проектор тумана"
+		},
+		"Heckler & Koch MP5 (15 mag)": {
+			"name": "Heckler & Koch MP5 (магазин на 15)"
+		},
+		"Glock 17 9mm Auto": {
+			"name": "Glock 17, 9 мм, самозарядный"
+		},
+		"IMI Desert Eagle": {
+			"name": "IMI Desert Eagle"
+		},
+		"Crossbow": {
+			"name": "Арбалет"
+		},
+		"Molotov Cocktail": {
+			"name": "Коктейль Молотова"
+		},
+		"Hatchet/Sickle": {
+			"name": "Топорик/серп"
+		},
+		"Bow and Arrows": {
+			"name": "Лук и стрелы"
+		},
+		"Knife, Small (switchblade, etc.)": {
+			"name": "Нож, малый (выкидной нож и т. п.)"
+		},
+		"FN Minimi, 5.56mm (30 mag)": {
+			"name": "FN Minimi, 5,56 мм (магазин на 30)"
+		},
+		".357 Magnum Revolver": {
+			"name": "Револьвер .357 Magnum"
+		},
+		"16-gauge Shotgun (2B)": {
+			"name": "Дробовик 16-го калибра (2B)"
+		},
+		"Thompson (20 mag)": {
+			"name": "Thompson (магазин на 20)"
+		},
+		"Sword, light (sharpened fencing foil, sword cane)": {
+			"name": "Меч, лёгкий (заточенная фехтовальная рапира, меч-трость)"
+		},
+		"Mace Spray*": {
+			"name": "Газовый баллончик*"
+		},
+		"Hand Grenade": {
+			"name": "Ручная граната"
+		},
+		"12-gauge Shotgun (2B sawed off)": {
+			"name": "Дробовик 12-го калибра (2B, обрезанный)"
+		},
+		"SKS Carbine": {
+			"name": "Карабин SKS"
+		},
+		"10-gauge Shotgun (2B)": {
+			"name": "Дробовик 10-го калибра (2B)"
+		},
+		"Mark I Lewis Gun (47 mag)": {
+			"name": "Пулемёт Mark I Lewis (магазин на 47)"
+		},
+		"12-gauge Shotgun (Pump)": {
+			"name": "Дробовик 12-го калибра (помповый)"
+		},
+		".38 Automatic": {
+			"name": "Самозарядный пистолет .38"
+		},
+		".30-06 Bolt-Action Rifle": {
+			"name": "Винтовка .30-06 с продольно-скользящим затвором"
+		},
+		"Blasting Cap": {
+			"name": "Детонатор"
+		},
+		"Ship-mounted 5-inch rifle, stabilized": {
+			"name": "Корабельное 5-дюймовое орудие, стабилизированное"
+		},
+		"Heavy Kevlar Vest": {
+			"name": "Тяжёлый кевларовый жилет",
+			"description": "<p>8 единиц брони</p>",
+			"effects": {
+				"Armor value": {
+					"name": "Значение брони",
+					"changes": {
+						"system.attribs.armor.value": 8
+					}
+				}
+			}
+		},
+		"Club, large (baseball, cricket bat, poker)": {
+			"name": "Дубина, большая (бейсбольная бита, бита для крикета, кочерга)"
+		},
+		"Sword, medium (rapier, heavy epee)": {
+			"name": "Меч, средний (рапира, тяжёлая шпага)"
+		}
+	}
+}

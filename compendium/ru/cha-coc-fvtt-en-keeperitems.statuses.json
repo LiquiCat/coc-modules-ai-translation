@@ -1,0 +1,809 @@
+{
+	"label": "Statuses | Статусы",
+	"folders": {
+		"Phobias": "Фобии",
+		"Manias": "Мании"
+	},
+	"entries": {
+		"Goetomania": {
+			"name": "Гетомания",
+			"description": "<p>Одержимость ведьмами и колдовством.</p>"
+		},
+		"Amenomania": {
+			"name": "Аменомания",
+			"description": "<p>Иррациональная жизнерадостность.</p>"
+		},
+		"Pyrophobia": {
+			"name": "Пирофобия",
+			"description": "<p>Страх огня.</p>"
+		},
+		"Eremiomania": {
+			"name": "Эремиомания",
+			"description": "<p>Компульсия к неподвижности.</p>"
+		},
+		"Catapedamania": {
+			"name": "Катапедамания",
+			"description": "<p>Одержимость прыжками с высоты.</p>"
+		},
+		"Planomania": {
+			"name": "Планомания",
+			"description": "<p>Аномальное желание не подчиняться социальным нормам.</p>"
+		},
+		"Pogonophobia": {
+			"name": "Погонофобия",
+			"description": "<p>Страх бород.</p>"
+		},
+		"Monophobia": {
+			"name": "Монофобия",
+			"description": "<p>Страх одиночества.</p>"
+		},
+		"Meteorophobia": {
+			"name": "Метеорофобия",
+			"description": "<p>Страх метеоров или метеоритов.</p>"
+		},
+		"Siderodromophobia": {
+			"name": "Сидеродромофобия",
+			"description": "<p>Страх путешествия на поезде.</p>"
+		},
+		"Metromania": {
+			"name": "Метромания",
+			"description": "<p>Ненасытное желание писать стихи.</p>"
+		},
+		"Pharmacophobia": {
+			"name": "Фармакофобия",
+			"description": "<p>Страх лекарств.</p>"
+		},
+		"Aichmomania": {
+			"name": "Айхмомания",
+			"description": "<p>Одержимость острыми или колющими предметами.</p>"
+		},
+		"Scribbleomania": {
+			"name": "Каракулямания",
+			"description": "<p>Одержимость каракулями/рисованием.</p>"
+		},
+		"Atephobia": {
+			"name": "Атефобия",
+			"description": "<p>Страх разрушения или руин.</p>"
+		},
+		"Aerophobia": {
+			"name": "Аэрофобия",
+			"description": "<p>Страх полётов.</p>"
+		},
+		"Felinophobia": {
+			"name": "Фелинофобия",
+			"description": "<p>Страх кошек.</p>"
+		},
+		"Parasitophobia": {
+			"name": "Паразитофобия",
+			"description": "<p>Страх паразитов.</p>"
+		},
+		"Agoraphobia": {
+			"name": "Агорафобия",
+			"description": "<p>Страх открытых, публичных (людных) мест.</p>"
+		},
+		"Notomania": {
+			"name": "Нотомания",
+			"description": "<p>Компульсия записывать всё (например, фотографировать).</p>"
+		},
+		"Caligynephobia": {
+			"name": "Калигинефобия",
+			"description": "<p>Страх красивых женщин.</p>"
+		},
+		"Symmetrophobia": {
+			"name": "Симметрофобия",
+			"description": "<p>Страх симметрии.</p>"
+		},
+		"Gephyrophobia": {
+			"name": "Гефирофобия",
+			"description": "<p>Страх пересекать мосты.</p>"
+		},
+		"Triskadekaphobia": {
+			"name": "Трискадекафобия",
+			"description": "<p>Страх числа 13.</p>"
+		},
+		"Mysophobia": {
+			"name": "Мизофобия",
+			"description": "<p>Страх грязи или загрязнения.</p>"
+		},
+		"Ichthyomania": {
+			"name": "Ихтиомания",
+			"description": "<p>Одержимость рыбой.</p>"
+		},
+		"Doraphobia": {
+			"name": "Дорафобия",
+			"description": "<p>Страх меха.</p>"
+		},
+		"Lotterymania": {
+			"name": "Лотереямания",
+			"description": "<p>Крайнее желание участвовать в лотереях.</p>"
+		},
+		"Acrophobia": {
+			"name": "Акрофобия",
+			"description": "<p>Страх высоты.</p>"
+		},
+		"Trichotillomania": {
+			"name": "Трихотилломания",
+			"description": "<p>Страсть вырывать собственные волосы.</p>"
+		},
+		"Chronomentrophobia": {
+			"name": "Хрономентрофобия",
+			"description": "<p>Страх часов.</p>"
+		},
+		"Bibliomania": {
+			"name": "Библиомания",
+			"description": "<p>Одержимость книгами и/или чтением.</p>"
+		},
+		"Teratophobia": {
+			"name": "Тератофобия",
+			"description": "<p>Страх монстров.</p>"
+		},
+		"Ailuromania": {
+			"name": "Айлуромания",
+			"description": "<p>Аномальная любовь к кошкам.</p>"
+		},
+		"Taurophobia": {
+			"name": "Таурофобия",
+			"description": "<p>Страх быков.</p>"
+		},
+		"Phonomania": {
+			"name": "Фономания",
+			"description": "<p>Патологическая склонность к убийству.</p>"
+		},
+		"Onomatomania": {
+			"name": "Ономатомания",
+			"description": "<p>Непреодолимое желание повторять определённые слова.</p>"
+		},
+		"Ecclesiophobia": {
+			"name": "Экклезиофобия",
+			"description": "<p>Страх церкви.</p>"
+		},
+		"Acromania (heights)": {
+			"name": "Акромания (высота)",
+			"description": "<p>Компульсия к высоким местам.</p>"
+		},
+		"Helminthomania": {
+			"name": "Гельминтомания",
+			"description": "<p>Чрезмерная любовь к червям.</p>"
+		},
+		"Balletomania": {
+			"name": "Балетомания",
+			"description": "<p>Аномальная любовь к балету.</p>"
+		},
+		"Necrophobia": {
+			"name": "Некрофобия",
+			"description": "<p>Страх мёртвых вещей.</p>"
+		},
+		"Bibliokleptomania": {
+			"name": "Библиоклептомания",
+			"description": "<p>Компульсия красть книги.</p>"
+		},
+		"Paramania": {
+			"name": "Парамания",
+			"description": "<p>Аномальное удовольствие от жалоб.</p>"
+		},
+		"Iconomania": {
+			"name": "Икономaния",
+			"description": "<p>Одержимость иконами или портретами.</p>"
+		},
+		"Countermania": {
+			"name": "Контромания",
+			"description": "<p>Компульсия испытывать страшные ситуации.</p>"
+		},
+		"Wiccaphobia": {
+			"name": "Виккафобия",
+			"description": "<p>Страх ведьм и колдовства.</p>"
+		},
+		"Egomania": {
+			"name": "Эгомания",
+			"description": "<p>Иррациональная эгоцентричная позиция или самопоклонение.</p>"
+		},
+		"Cartacoethes": {
+			"name": "Картакоэтес",
+			"description": "<p>Неконтролируемая компульсия видеть карты повсюду.</p>"
+		},
+		"Homichlophobia": {
+			"name": "Хомихлофобия",
+			"description": "<p>Страх тумана.</p>"
+		},
+		"Androphobia": {
+			"name": "Андрофобия",
+			"description": "<p>Страх мужчин.</p>"
+		},
+		"Iatrophobia": {
+			"name": "Ятрофобия",
+			"description": "<p>Страх врачей.</p>"
+		},
+		"Eisoptrophobia": {
+			"name": "Эйзоптрофобия",
+			"description": "<p>Страх зеркал.</p>"
+		},
+		"Kleptomania": {
+			"name": "Клептомания",
+			"description": "<p>Иррациональная компульсия красть.</p>"
+		},
+		"Etheromania": {
+			"name": "Этеромания",
+			"description": "<p>Страсть к эфиру.</p>"
+		},
+		"Megalithomania": {
+			"name": "Мегалитомания",
+			"description": "<p>Аномальная тенденция составлять причудливые идеи в присутствии каменных кругов/стоячих камней.</p>"
+		},
+		"Octophobia": {
+			"name": "Октофобия",
+			"description": "<p>Страх цифры 8.</p>"
+		},
+		"Tomophobia": {
+			"name": "Томофобия",
+			"description": "<p>Страх хирургических операций.</p>"
+		},
+		"Zoomania": {
+			"name": "Зоомания",
+			"description": "<p>Безумная любовь к животным.</p>"
+		},
+		"Titillomaniac": {
+			"name": "Титилломаниак",
+			"description": "<p>Компульсия чесать себя.</p>"
+		},
+		"Bacteriophobia": {
+			"name": "Бактериофобия",
+			"description": "<p>Страх бактерий.</p>"
+		},
+		"Technomania": {
+			"name": "Техномания",
+			"description": "<p>Одержимость новыми технологиями.</p>"
+		},
+		"Misomania": {
+			"name": "Мизомания",
+			"description": "<p>Ненависть ко всему, одержимость ненавистью к какому-либо предмету или группе.</p>"
+		},
+		"Xenophobia": {
+			"name": "Ксенофобия",
+			"description": "<p>Страх незнакомцев или иностранцев.</p>"
+		},
+		"Coloromania": {
+			"name": "Цветомания",
+			"description": "<p>Одержимость определённым цветом.</p>"
+		},
+		"Dromophobia": {
+			"name": "Дромофобия",
+			"description": "<p>Страх пересекать улицы.</p>"
+		},
+		"Astraphobia": {
+			"name": "Астрафобия",
+			"description": "<p>Страх молнии.</p>"
+		},
+		"Cynophobia": {
+			"name": "Кинофобия",
+			"description": "<p>Страх собак.</p>"
+		},
+		"Aulophobia": {
+			"name": "Аулофобия",
+			"description": "<p>Страх флейт.</p>"
+		},
+		"Ligyrophobia": {
+			"name": "Лигирофобия",
+			"description": "<p>Страх громких звуков.</p>"
+		},
+		"Gymnomania": {
+			"name": "Гимномания",
+			"description": "<p>Компульсия к наготе.</p>"
+		},
+		"Bibliophobia": {
+			"name": "Библиофобия",
+			"description": "<p>Страх книг.</p>"
+		},
+		"Typhlomania": {
+			"name": "Тифломания",
+			"description": "<p>Патологическая слепота.</p>"
+		},
+		"Demonophobia": {
+			"name": "Демонофобия",
+			"description": "<p>Страх духов или демонов.</p>"
+		},
+		"Clinomania": {
+			"name": "Клиномания",
+			"description": "<p>Чрезмерное желание оставаться в постели.</p>"
+		},
+		"Zoophobia": {
+			"name": "Зоофобия",
+			"description": "<p>Страх животных.</p>"
+		},
+		"Habromania": {
+			"name": "Хабромания",
+			"description": "<p>Аномальная тенденция создавать приятные заблуждения (вопреки реальности).</p>"
+		},
+		"Hydrophobia": {
+			"name": "Гидрофобия",
+			"description": "<p>Страх воды.</p>"
+		},
+		"Arachnophobia": {
+			"name": "Арахнофобия",
+			"description": "<p>Страх пауков.</p>"
+		},
+		"Cheimatomania": {
+			"name": "Хейматамания",
+			"description": "<p>Аномальное желание холода и/или холодных вещей.</p>"
+		},
+		"Coulromania": {
+			"name": "Коулромания",
+			"description": "<p>Одержимость клоунами.</p>"
+		},
+		"Botanophobia": {
+			"name": "Ботанофобия",
+			"description": "<p>Страх растений.</p>"
+		},
+		"Potophobia": {
+			"name": "Потофобия",
+			"description": "<p>Страх алкоголя или алкогольных напитков.</p>"
+		},
+		"Enosimania": {
+			"name": "Эносимания",
+			"description": "<p>Патологическая вера в то, что человек согрешил.</p>"
+		},
+		"Telephonophobia": {
+			"name": "Телефонофобия",
+			"description": "<p>Страх телефонов.</p>"
+		},
+		"Alliumphobia": {
+			"name": "Аллиумофобия",
+			"description": "<p>Страх чеснока</p>"
+		},
+		"Demophobia": {
+			"name": "Демофобия",
+			"description": "<p>Страх толпы.</p>"
+		},
+		"Arithmomania": {
+			"name": "Арифмомания",
+			"description": "<p>Обессивная preoccupation с числами.</p>"
+		},
+		"Personamania": {
+			"name": "Персонамания",
+			"description": "<p>Компульсия носить маски.</p>"
+		},
+		"Empleomania": {
+			"name": "Эмплеомания",
+			"description": "<p>Ненасытное стремление занимать должность.</p>"
+		},
+		"Doromania": {
+			"name": "Доромания",
+			"description": "<p>Одержимость дарением подарков.</p>"
+		},
+		"Disposophobia": {
+			"name": "Диспозофобия",
+			"description": "<p>Страх выбрасывать вещи (накопительство).</p>"
+		},
+		"Entomophobia": {
+			"name": "Энтомофобия",
+			"description": "<p>Страх насекомых.</p>"
+		},
+		"Claustrophobia": {
+			"name": "Клаустрофобия",
+			"description": "<p>Страх замкнутых пространств.</p>"
+		},
+		"Mechanophobia": {
+			"name": "Механофобия",
+			"description": "<p>Страх машин или механизмов.</p>"
+		},
+		"Oneirophobia": {
+			"name": "Онейрофобия",
+			"description": "<p>Страх снов.</p>"
+		},
+		"Xenomania": {
+			"name": "Ксеномания",
+			"description": "<p>Одержимость иностранными вещами.</p>"
+		},
+		"Dromomania": {
+			"name": "Дромомания",
+			"description": "<p>Компульсия уходить или бродить.</p>"
+		},
+		"Dikemania": {
+			"name": "Дикемания",
+			"description": "<p>Одержимость видеть торжество справедливости.</p>"
+		},
+		"Megalophobia": {
+			"name": "Мегалофобия",
+			"description": "<p>Страх больших вещей.</p>"
+		},
+		"Alektorophobia": {
+			"name": "Алектрофобия",
+			"description": "<p>Страх кур.</p>"
+		},
+		"Linonomania": {
+			"name": "Линомания",
+			"description": "<p>Одержимость верёвкой.</p>"
+		},
+		"Apotemnophobia": {
+			"name": "Апотemnофобия",
+			"description": "<p>Страх людей с ампутациями.</p>"
+		},
+		"Gerontophobia": {
+			"name": "Геронтофобия",
+			"description": "<p>Страх старых людей или старения.</p>"
+		},
+		"Onomatophobia": {
+			"name": "Ономатофобия",
+			"description": "<p>Страх услышать определённое слово или слова.</p>"
+		},
+		"Dipsomania": {
+			"name": "Дипсомания",
+			"description": "<p>Аномальная страсть к алкоголю.</p>"
+		},
+		"Coulrophobia": {
+			"name": "Коулрофобия",
+			"description": "<p>Страх клоунов.</p>"
+		},
+		"Photomania": {
+			"name": "Фотомания",
+			"description": "<p>Патологическое желание света.</p>"
+		},
+		"Infomania": {
+			"name": "Инфомания",
+			"description": "<p>Чрезмерная преданность накоплению фактов.</p>"
+		},
+		"Cheimaphobia": {
+			"name": "Хеймафобия",
+			"description": "<p>Страх холода.</p>"
+		},
+		"Pyromania": {
+			"name": "Пиромания",
+			"description": "<p>Компульсия поджигать.</p>"
+		},
+		"Dentophobia": {
+			"name": "Дентофобия",
+			"description": "<p>Страх стоматологов.</p>"
+		},
+		"Question-Asking Mania": {
+			"name": "Мания задавать вопросы",
+			"description": "<p>Компульсивное стремление задавать вопросы.</p>"
+		},
+		"Phenogophobia": {
+			"name": "Феногофобия",
+			"description": "<p>Страх дневного света.</p>"
+		},
+		"Ballistophobia": {
+			"name": "Баллистофобия",
+			"description": "<p>Страх снарядов или пуль.</p>"
+		},
+		"Selenophobia": {
+			"name": "Селенофобия",
+			"description": "<p>Страх луны.</p>"
+		},
+		"Ablutomania": {
+			"name": "Аблутомания",
+			"description": "<p>Компульсия мыть себя.</p>"
+		},
+		"Bruxomania": {
+			"name": "Бруксомания",
+			"description": "<p>Компульсия скрипеть зубами.</p>"
+		},
+		"Algomania": {
+			"name": "Алгомания",
+			"description": "<p>Одержимость болью.</p>"
+		},
+		"Xanthophobia": {
+			"name": "Ксантофобия",
+			"description": "<p>Страх жёлтого цвета или слова «жёлтый».</p>"
+		},
+		"Siderodromomania": {
+			"name": "Сидеродромомания",
+			"description": "<p>Интенсивная увлечённость поездами и железнодорожными путешествиями.</p>"
+		},
+		"Merinthophobia": {
+			"name": "Меринтофобия",
+			"description": "<p>Страх быть связанным или привязанным.</p>"
+		},
+		"Gynophobia": {
+			"name": "Гинофобия",
+			"description": "<p>Страх женщин.</p>"
+		},
+		"Katsaridaphobia": {
+			"name": "Катсаридафобия",
+			"description": "<p>Страх тараканов.</p>"
+		},
+		"Ornithophobia": {
+			"name": "Орнитофобия",
+			"description": "<p>Страх птиц.</p>"
+		},
+		"Thalassophobia": {
+			"name": "Талассофобия",
+			"description": "<p>Страх моря.</p>"
+		},
+		"Coimetromania": {
+			"name": "Койметромания",
+			"description": "<p>Одержимость кладбищами.</p>"
+		},
+		"Limnophobia": {
+			"name": "Лимнофобия",
+			"description": "<p>Страх озёр.</p>"
+		},
+		"Hoplophobia": {
+			"name": "Хоплофобия",
+			"description": "<p>Страх огнестрельного оружия.</p>"
+		},
+		"Siderophobia": {
+			"name": "Сидерофобия",
+			"description": "<p>Страх звёзд.</p>"
+		},
+		"Ancraophobia": {
+			"name": "Анкраофобия",
+			"description": "<p>Страх ветра.</p>"
+		},
+		"Rhabdophobia": {
+			"name": "Рабдофобия",
+			"description": "<p>Страх магии.</p>"
+		},
+		"Dermatillomania": {
+			"name": "Дерматилломания",
+			"description": "<p>Компульсия ковырять свою кожу.</p>"
+		},
+		"Enetophobia": {
+			"name": "Энетофобия",
+			"description": "<p>Страх игл или булавок.</p>"
+		},
+		"Vestiphobia": {
+			"name": "Вестифобия",
+			"description": "<p>Страх одежды.</p>"
+		},
+		"Mythomania": {
+			"name": "Мифомания",
+			"description": "<p>Ложь или преувеличение до аномальной степени.</p>"
+		},
+		"Pediophobia": {
+			"name": "Педиофобия",
+			"description": "<p>Страх кукол.</p>"
+		},
+		"Tomomania": {
+			"name": "Томомания",
+			"description": "<p>Иррациональное пристрастие к проведению операций.</p>"
+		},
+		"Monomania": {
+			"name": "Мономания",
+			"description": "<p>Аномальная одержимость одной мыслью или идеей.</p>"
+		},
+		"Taphephobia": {
+			"name": "Тафефобия",
+			"description": "<p>Страх быть похороненным заживо или кладбищ.</p>"
+		},
+		"Nosomania": {
+			"name": "Нозомания",
+			"description": "<p>Заблуждение о страдании от воображаемой болезни.</p>"
+		},
+		"Keraunophobia": {
+			"name": "Керавнофобия",
+			"description": "<p>Страх грома.</p>"
+		},
+		"Scotophobia": {
+			"name": "Скотофобия",
+			"description": "<p>Страх темноты или ночи.</p>"
+		},
+		"Ecdemiomania": {
+			"name": "Экдемиомания",
+			"description": "<p>Компульсия к бродяжничеству.</p>"
+		},
+		"Onomamania": {
+			"name": "Ономамания",
+			"description": "<p>Одержимость именами (людей, мест, вещей).</p>"
+		},
+		"Callomania": {
+			"name": "Калломания",
+			"description": "<p>Одержимость собственной красотой.</p>"
+		},
+		"Alliomania": {
+			"name": "Аллиомания",
+			"description": "<p>Одержимость чесноком.</p>"
+		},
+		"Graphomania": {
+			"name": "Графомания",
+			"description": "<p>Одержимость записывать всё.</p>"
+		},
+		"Herpetophobia": {
+			"name": "Герпетофобия",
+			"description": "<p>Страх рептилий.</p>"
+		},
+		"Lachanophobia": {
+			"name": "Лаханофобия",
+			"description": "<p>Страх овощей.</p>"
+		},
+		"Agromania": {
+			"name": "Агромания",
+			"description": "<p>Интенсивное желание быть на открытых пространствах.</p>"
+		},
+		"Hamartophobia": {
+			"name": "Гамартофобия",
+			"description": "<p>Страх греха.</p>"
+		},
+		"Phagophobia": {
+			"name": "Фагофобия",
+			"description": "<p>Страх глотания, еды или быть съеденным.</p>"
+		},
+		"Thanatomania": {
+			"name": "Танатомания",
+			"description": "<p>Вера в то, что человек проклят магией смерти.</p>"
+		},
+		"Odontophobia": {
+			"name": "Одонтофобия",
+			"description": "<p>Страх зубов.</p>"
+		},
+		"Anthomania": {
+			"name": "Антомания",
+			"description": "<p>Одержимость цветами.</p>"
+		},
+		"Potamophobia": {
+			"name": "Потамофобия",
+			"description": "<p>Страх рек.</p>"
+		},
+		"Phasmomania": {
+			"name": "Фазмомания",
+			"description": "<p>Одержимость призраками.</p>"
+		},
+		"Dacnomania": {
+			"name": "Дакномания",
+			"description": "<p>Одержимость убийством.</p>"
+		},
+		"Xenoglossophobia": {
+			"name": "Ксеноглософобия",
+			"description": "<p>Страх иностранных языков.</p>"
+		},
+		"Phasmophobia": {
+			"name": "Фазмофобия",
+			"description": "<p>Страх призраков.</p>"
+		},
+		"Klazomania": {
+			"name": "Клазомания",
+			"description": "<p>Иррациональная компульсия кричать.</p>"
+		},
+		"Amaxomania": {
+			"name": "Амаксомания",
+			"description": "<p>Одержимость нахождением в транспортных средствах.</p>"
+		},
+		"Ichthyophobia": {
+			"name": "Ихтиофобия",
+			"description": "<p>Страх рыбы.</p>"
+		},
+		"Asoticamania": {
+			"name": "Асотикамания",
+			"description": "<p>Импульсивные или безрассудные траты.</p>"
+		},
+		"Demonomania": {
+			"name": "Демономания",
+			"description": "<p>Патологическая вера в то, что человек одержим демонами.</p>"
+		},
+		"Basophobia": {
+			"name": "Базофобия",
+			"description": "<p>Страх падения.</p>"
+		},
+		"Rhinotillexomania": {
+			"name": "Ринотиллексомания",
+			"description": "<p>Компульсивное ковыряние в носу.</p>"
+		},
+		"Melomania": {
+			"name": "Меломания",
+			"description": "<p>Одержимость музыкой или определённой мелодией.</p>"
+		},
+		"Achluomania": {
+			"name": "Ахлуомания",
+			"description": "<p>Чрезмерная любовь к темноте.</p>"
+		},
+		"Anthophobia": {
+			"name": "Антофобия",
+			"description": "<p>Страх цветов.</p>"
+		},
+		"Plutomania": {
+			"name": "Плутомания",
+			"description": "<p>Обессивное желание богатства.</p>"
+		},
+		"Idolomania": {
+			"name": "Идоломания",
+			"description": "<p>Одержимость или преданность идолу.</p>"
+		},
+		"Geliomania": {
+			"name": "Гелиомания",
+			"description": "<p>Неконтролируемая компульсия смеяться.</p>"
+		},
+		"Choreomania": {
+			"name": "Хореомания",
+			"description": "<p>Танцевальная мания или неконтролируемое безумие.</p>"
+		},
+		"Agathomania": {
+			"name": "Агатомания",
+			"description": "<p>Патологическая доброта.</p>"
+		},
+		"Myxophobia": {
+			"name": "Миксофобия",
+			"description": "<p>Страх слизи.</p>"
+		},
+		"Haemaphobia": {
+			"name": "Гемафобия",
+			"description": "<p>Страх крови.</p>"
+		},
+		"Theomania": {
+			"name": "Теомания",
+			"description": "<p>Вера в то, что он или она — бог.</p>"
+		},
+		"Cacodemomania": {
+			"name": "Какодемомания",
+			"description": "<p>Патологическая вера в то, что человек одержим злым духом.</p>"
+		},
+		"Amaxophobia": {
+			"name": "Амаксофобия",
+			"description": "<p>Страх находиться в транспортных средствах или ехать в них.</p>"
+		},
+		"Stenophobia": {
+			"name": "Стенофобия",
+			"description": "<p>Страх узких вещей или мест.</p>"
+		},
+		"Ophidiophobia": {
+			"name": "Офидиофобия",
+			"description": "<p>Страх змей.</p>"
+		},
+		"Hoplomania": {
+			"name": "Хопломания",
+			"description": "<p>Одержимость огнестрельным оружием.</p>"
+		},
+		"Aboulomania": {
+			"name": "Абуломания",
+			"description": "<p>Патологическая нерешительность.</p>"
+		},
+		"Opsomania": {
+			"name": "Опсомания",
+			"description": "<p>Аномальная любовь к одному виду еды.</p>"
+		},
+		"Ablutophobia": {
+			"name": "Аблутофобия",
+			"description": "<p>Страх мытья или купания.</p>"
+		},
+		"Anglophobia": {
+			"name": "Англофобия",
+			"description": "<p>Страх Англии или английской культуры и т.д.</p>"
+		},
+		"Sophomania": {
+			"name": "Софомания",
+			"description": "<p>Заблуждение о том, что человек невероятно умён.</p>"
+		},
+		"Hydromania": {
+			"name": "Гидромания",
+			"description": "<p>Иррациональная страсть к воде.</p>"
+		},
+		"Haphophobia": {
+			"name": "Гафофобия",
+			"description": "<p>Страх прикосновения.</p>"
+		},
+		"Epistemomania": {
+			"name": "Эпистемомания",
+			"description": "<p>Одержимость приобретением знаний.</p>"
+		},
+		"Automania": {
+			"name": "Автомания",
+			"description": "<p>Чрезмерная любовь к одиночеству.</p>"
+		},
+		"Pseudomania": {
+			"name": "Псевдомания",
+			"description": "<p>Иррациональная компульсия лгать.</p>"
+		},
+		"Ligyromania": {
+			"name": "Лигиромания",
+			"description": "<p>Неконтролируемая компульсия издавать громкие или пронзительные звуки.</p>"
+		},
+		"Doramania": {
+			"name": "Дорамания",
+			"description": "<p>Одержимость владением мехами.</p>"
+		},
+		"Gamomania": {
+			"name": "Гамомания",
+			"description": "<p>Одержимость выдачей странных предложений о браке.</p>"
+		},
+		"Onychotillomania": {
+			"name": "Онихотилломания",
+			"description": "<p>Компульсивное ковыряние ногтей на пальцах рук.</p>"
+		},
+		"Lypemania": {
+			"name": "Липемания",
+			"description": "<p>Аномальная тенденция к глубокой меланхолии.</p>"
+		},
+		"Hypnophobia": {
+			"name": "Гипнофобия",
+			"description": "<p>Страх сна или быть загипнотизированным.</p>"
+		}
+	}
+}
